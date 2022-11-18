@@ -1,0 +1,525 @@
+[
+    {
+        "name": "ASKI",
+        "url": "./Referans-img/pamajans-referans-aski-nisantasi-logo2-1.jpg.webp"
+    },
+    {
+        "name": "Rouge",
+        "url": "./Referans-img/pamajans-referans-karum-rouge-logo-1.jpg.webp"
+    },
+    {
+        "name": "Holla Gugu",
+        "url": "./Referans-img/pamajans-referans-holla-gugu-logo-1.jpg.webp"
+    },
+    {
+        "name": "Selin Özbey",
+        "url": "./Referans-img/pamajans-referans-selin-ozbey-logo-1.jpg.webp"
+    },
+    {
+        "name": "Zerrincan",
+        "url": "./Referans-img/pamajans-referans-zerrincan-giyim-logo-1.jpg.webp"
+    },
+    {
+        "name": "Beauty Omelette",
+        "url": "./Referans-img/pamajans-referans-beauty-omlette-logo-1.jpg.webp"
+    },
+    {
+        "name": "Moda Çelikler",
+        "url": "./Referans-img/pamajans-referans-moda-celikler-logo-1.jpg.webp"
+    },
+    {
+        "name": "Can Balta",
+        "url": "./Referans-img/pamajans-referans-canbalta-logo-1.jpg.webp"
+    },{
+        "name": "hoggheim",
+        "url": "./Referans-img/pamajans-referans-hoggheim-logo-1.jpg.webp"
+    },
+    {
+        "name": "stafu",
+        "url": "./Referans-img/pamajans-referans-stafu-logo-1.jpg.webp"
+    },
+    {
+        "name": "morpho",
+        "url": "./Referans-img/pamajans-referans-morpho-logo-1.jpg.webp"
+    },
+    {
+        "name": "matmazel-butik",
+        "url": "./Referans-img/pamajans-referans-matmazel-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "bbsteknik",
+        "url": "./Referans-img/pamajans-referans-bbsteknik-logo-1.jpg.webp"
+    },
+    {
+        "name": "angel-mia",
+        "url": "./Referans-img/pamajans-referans-angel-mia-logo-1.jpg"
+    },
+    {
+        "name": "aktashobi",
+        "url": "./Referans-img/pamajans-referans-aktashobi-logo-1.jpg.webp"
+    },
+    {
+        "name": "javtekstil",
+        "url": "./Referans-img/pamajans-referans-javtekstil-logo-1.jpg.webp"
+    },{
+        "name": "javdes",
+        "url": "./Referans-img/pamajans-referans-javdes-logo-1.jpg.webp"
+    },
+    {
+        "name": "adnankiziltas",
+        "url": "./Referans-img/pamajans-referans-adnankiziltas-logo-1.jpg.webp"
+    },
+    {
+        "name": "eda-eratesli",
+        "url": "./Referans-img/pamajans-referans-eda-eratesli-logo-1.jpg.webp"
+    },
+    {
+        "name": "fitavm",
+        "url": "./Referans-img/pamajans-referans-fitavm-logo-1.jpg.webp"
+    },
+    {
+        "name": "gymxpro",
+        "url": "./Referans-img/pamajans-referans-gymxpro-logo-1.jpg.webp"
+    },
+    {
+        "name": "hnb",
+        "url": "./Referans-img/pamajans-referans-hnb-canta-logo-1.jpg.webp"
+    },
+    {
+        "name": "ogobongo",
+        "url": "./Referans-img/pamajans-referans-ogobongo-logo-1.jpg.webp"
+    },
+    {
+        "name": "dorukenerji",
+        "url": "./Referans-img/pamajans-referans-dorukenerji-logo-1.jpg.webp"
+    },{
+        "name": "goncalya",
+        "url": "./Referans-img/pamajans-referans-goncalya-logo-1.jpg.webp"
+    },
+    {
+        "name": "homedius",
+        "url": "./Referans-img/pamajans-referans-homedius-logo-1.jpg.webp"
+    },
+    {
+        "name": "cherie",
+        "url": "./Referans-img/pamajans-referans-cherie-logo-1.jpg.webp"
+    },
+    {
+        "name": "masal-kiz",
+        "url": "./Referans-img/pamajans-referans-masal-kiz-logo-1.jpg.webp"
+    },
+    {
+        "name": "senayin-butigi",
+        "url": "./Referans-img/pamajans-referans-senayin-butigi-logo-1.jpg.webp"
+    },
+    {
+        "name": "didem-gultakti",
+        "url": "./Referans-img/pamajans-referans-didem-gultakti-logo-1.jpg.webp"
+    },
+    {
+        "name": "dal-store",
+        "url": "./Referans-img/pamajans-referans-dal-store-logo-1.jpg.webp"
+    },
+    {
+        "name": "intermilano-optik",
+        "url": "./Referans-img/pamajans-referans-intermilano-optik-logo-1.jpg.webp"
+    },
+    {
+        "name": "istasyon-giyim",
+        "url": "./Referans-img/pamajans-referans-istasyon-giyim-logo-1.jpg.webp"
+    },
+    {
+        "name": "moday-butik",
+        "url": "./Referans-img/pamajans-referans-moday-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "tarz-butik",
+        "url": "./Referans-img/pamajans-referans-tarz-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "mjamass",
+        "url": "./Referans-img/pamajans-referans-mjamass-logo-1.jpg.webp"
+    },
+    {
+        "name": "sobay",
+        "url": "./Referans-img/pamajans-referans-sobay-shoes-logo-1.jpg.webp"
+    },
+    {
+        "name": "strawberry",
+        "url": "./Referans-img/pamajans-referans-strawberry-wear-logo-1.jpg.webp"
+    },
+    {
+        "name": "pinar-butik",
+        "url": "./Referans-img/pamajans-referans-pinar-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "seren-avci",
+        "url": "./Referans-img/pamajans-referans-seren-avci-logo-1.jpg.webp"
+    },
+    {
+        "name": "nisantasi-butiks",
+        "url": "./Referans-img/pamajans-referans-nisantasi-butiks-logo-1.jpg.webp"
+    },{
+        "name": "aychayla",
+        "url": "./Referans-img/pamajans-referans-aychayla-logo-1.jpg.webp"
+    },
+    {
+        "name": "cadde-store",
+        "url": "./Referans-img/pamajans-referans-cadde-store-logo-1.jpg.webp"
+    },
+    {
+        "name": "gr-trend",
+        "url": "./Referans-img/pamajans-referans-gr-trend-logo-2.jpg.webp"
+    },
+    {
+        "name": "by-joje",
+        "url": "./Referans-img/pamajans-referans-by-joje-logo-1.jpg.webp"
+    },
+    {
+        "name": "lalenur",
+        "url": "./Referans-img/pamajans-referans-lalenur-logo-1.jpg.webp"
+    },
+    {
+        "name": "meltem-tugan",
+        "url": "./Referans-img/pamajans-referans-meltem-tugan-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "nope21",
+        "url": "./Referans-img/pamajans-referans-nope21-logo-1.jpg.webp"
+    },
+    {
+        "name": "miyore",
+        "url": "./Referans-img/pamajans-referans-miyore-logo-1.jpg.webp"
+    },
+    {
+        "name": "cksisters",
+        "url": "./Referans-img/pamajans-referans-cksisters-logo-1.jpg.webp"
+    },
+    {
+        "name": "cagla-ege",
+        "url": "./Referans-img/pamajans-referans-cagla-ege-logo-1.jpg.webp"
+    },
+    {
+        "name": "37-numara",
+        "url": "./Referans-img/pamajans-referans-37-numara-logo-1.jpg"
+    },
+    {
+        "name": "atlas-port",
+        "url": "./Referans-img/pamajans-referans-atlas-port-logo-1.jpg.webp"
+    },
+    {
+        "name": "melos-taki",
+        "url": "./Referans-img/pamajans-referans-melos-taki-logo-1.jpg.webp"
+    },
+    {
+        "name": "mehtap-yaman",
+        "url": "./Referans-img/pamajans-referans-mehtap-yaman-logo-1.jpg.webp"
+    },
+    {
+        "name": "carweza",
+        "url": "./Referans-img/pamajans-referans-carweza-logo-1.jpg.webp"
+    },
+    {
+        "name": "buffalo-ayakkabi",
+        "url": "./Referans-img/pamajans-referans-buffalo-ayakkabi-logo-1.jpg.webp"
+    },{
+        "name": "magic-on-candle",
+        "url": "./Referans-img/pamajans-referans-magic-on-candle-logo-1.jpg.webp"
+    },
+    {
+        "name": "kilimway",
+        "url": "./Referans-img/pamajans-referans-kilimway-logo-1.jpg.webp"
+    },
+    {
+        "name": "nurr-giyim",
+        "url": "./Referans-img/pamajans-referans-nurr-giyim-logo-1.jpg.webp"
+    },
+    {
+        "name": "narin-butik",
+        "url": "./Referans-img/pamajans-referans-narin-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "by-esra-arici",
+        "url": "./Referans-img/pamajans-referans-by-esra-arici-logo-1.jpg.webp"
+    },
+    {
+        "name": "wousden",
+        "url": "./Referans-img/pamajans-referans-wousden-logo-1.jpg.webp"
+    },
+    {
+        "name": "hayat-tourism",
+        "url": "./Referans-img/pamajans-referans-hayat-tourism-logo-1.jpg.webp"
+    },
+    {
+        "name": "freshly-baked",
+        "url": "./Referans-img/pamajans-referans-freshly-baked-clothes-logo-1.jpg.webp"
+    },{
+        "name": "xlrd",
+        "url": "./Referans-img/pamajans-referans-clothe-xlrd-logo-1.jpg.webp"
+    },
+    {
+        "name": "esvet",
+        "url": "./Referans-img/pamajans-referans-esvet-giyim-logo-1.jpg.webp"
+    },
+    {
+        "name": "emos",
+        "url": "./Referans-img/pamajans-referans-emos-canta-logo-1.jpg.webp"
+    },
+    {
+        "name": "emare",
+        "url": "./Referans-img/pamajans-referans-emare-online-logo-1.jpg.webp"
+    },
+    {
+        "name": "elbee",
+        "url": "./Referans-img/pamajans-referans-elbee-logo-1.jpg.webp"
+    },
+    {
+        "name": "zaruna",
+        "url": "./Referans-img/pamajans-referans-zaruna-accesories-logo-1.jpg.webp"
+    },
+    {
+        "name": "eos",
+        "url": "./Referans-img/pamajans-referans-eos-man-logo-1.jpg.webp"
+    },
+    {
+        "name": "ollbag",
+        "url": "./Referans-img/pamajans-referans-ollbag-logo-1.jpg.webp"
+    },{
+        "name": "shoes-manias",
+        "url": "./Referans-img/pamajans-referans-shoes-manias-logo-1.jpg.webp"
+    },
+    {
+        "name": "miner-store",
+        "url": "./Referans-img/pamajans-referans-miner-store-logo-1.jpg.webp"
+    },
+    {
+        "name": "bagac",
+        "url": "./Referans-img/pamajans-referans-bagac-moda-logo-1.jpg.webp"
+    },
+    {
+        "name": "mayka",
+        "url": "./Referans-img/pamajans-referans-mayka-logo-1.jpg.webp"
+    },
+    {
+        "name": "valeria",
+        "url": "./Referans-img/pamajans-referans-valeria-collection-logo-1.jpg.webp"
+    },
+    {
+        "name": "serife-tuna",
+        "url": "./Referans-img/pamajans-referans-serife-tuna-logo-1.jpg.webp"
+    },
+    {
+        "name": "omar-restaurante",
+        "url": "./Referans-img/pamajans-referans-omar-restaurante-logo-1.jpg.webp"
+    },
+    {
+        "name": "kuatra",
+        "url": "./Referans-img/pamajans-referans-kuatra-logo-1.jpg.webp"
+    },
+    {
+        "name": "butik-karamel",
+        "url": "./Referans-img/pamajans-referans-butik-karamel-logo-1.jpg.webp"
+    },
+    {
+        "name": "oyku-baby",
+        "url": "./Referans-img/pamajans-referans-oyku-baby-store-logo-1.jpg.webp"
+    },
+    {
+        "name": "elisinbutik",
+        "url": "./Referans-img/pamajans-referans-elisinbutik-logo-1.jpg.webp"
+    },
+    {
+        "name": "afkar",
+        "url": "./Referans-img/pamajans-referans-afkar-hali-logo-1.jpg.webp"
+    },
+    {
+        "name": "zirve-ozel-egitim",
+        "url": "./Referans-img/pamajans-referans-ankara-zirve-ozel-egitim-logo-1.jpg.webp"
+    },
+    {
+        "name": "ayakland",
+        "url": "./Referans-img/pamajans-referans-ayakland-logo-1.jpg.webp"
+    },
+    {
+        "name": "butikimola",
+        "url": "./Referans-img/pamajans-referans-butikimola-logo-1.jpg.webp"
+    },
+    {
+        "name": "butik-semra",
+        "url": "./Referans-img/pamajans-referans-butik-semra-logo-1.jpg.webp"
+    },
+    {
+        "name": "butikvintage",
+        "url": "./Referans-img/pamajans-referans-butikvintage-logo-1.jpg.webp"
+    },{
+        "name": "by-esra-arici",
+        "url": "./Referans-img/pamajans-referans-by-esra-arici-logo-1.jpg.webp"
+    },
+    {
+        "name": "bypakize",
+        "url": "./Referans-img/pamajans-referans-bypakize-logo-1.jpg.webp"
+    },
+    {
+        "name": "bysadem",
+        "url": "./Referans-img/pamajans-referans-bysadem-logo-1.jpg.webp"
+    },
+    {
+        "name": "cariad",
+        "url": "./Referans-img/pamajans-referans-cariad-design-logo-1.jpg.webp"
+    },
+    {
+        "name": "elisafashion",
+        "url": "./Referans-img/pamajans-referans-elisafashion-logo-1.jpg.webp"
+    },
+    {
+        "name": "emirgan",
+        "url": "./Referans-img/pamajans-referans-emirgan-hali-logo-1.jpg.webp"
+    },
+    {
+        "name": "emre-turhal",
+        "url": "./Referans-img/pamajans-referans-emre-turhal-logo-1.jpg.webp"
+    },
+    {
+        "name": "entesettur",
+        "url": "./Referans-img/pamajans-referans-entesettur-logo-1.jpg.webp"
+    },
+    {
+        "name": "eramore",
+        "url": "./Referans-img/pamajans-referans-eramore-logo-1.jpg.webp"
+    },
+    {
+        "name": "gelin",
+        "url": "./Referans-img/pamajans-referans-gelin-diamond-logo-1.jpg.webp"
+    },
+    {
+        "name": "giyim-masali",
+        "url": "./Referans-img/pamajans-referans-giyim-masali-logo-1.jpg.webp"
+    },
+    {
+        "name": "guzel-ev",
+        "url": "./Referans-img/pamajans-referans-guzel-ev-logo-1.jpg.webp"
+    },
+    {
+        "name": "jesbutik",
+        "url": "./Referans-img/pamajans-referans-jesbutik-logo-1.jpg.webp"
+    },
+    {
+        "name": "kubra-ayaz",
+        "url": "./Referans-img/pamajans-referans-kubra-ayaz-boutique-logo-1.jpg.webp"
+    },
+    {
+        "name": "kubra-ozbey",
+        "url": "./Referans-img/pamajans-referans-kubra-ozbey-logo-1.jpg.webp"
+    },
+    {
+        "name": "lamia-giyim",
+        "url": "./Referans-img/pamajans-referans-lamia-giyim-logo-1.jpg.webp"
+    },
+    {
+        "name": "leyuze",
+        "url": "./Referans-img/pamajans-referans-leyuze-logo-1.jpg.webp"
+    },
+    {
+        "name": "louretti",
+        "url": "./Referans-img/pamajans-referans-louretti-logo-1.jpg.webp"
+    },
+    {
+        "name": "magic-on-wall",
+        "url": "./Referans-img/pamajans-referans-magic-on-wall-logo-1.jpg.webp"
+    },
+    {
+        "name": "marjin-moda",
+        "url": "./Referans-img/pamajans-referans-marjin-moda-logo-1.jpg.webp"
+    },
+    {
+        "name": "merven-akyuz",
+        "url": "./Referans-img/pamajans-referans-merven-akyuz-logo-1.jpg.webp"
+    },
+    {
+        "name": "mislina-butik",
+        "url": "./Referans-img/pamajans-referans-mislina-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "moz",
+        "url": "./Referans-img/pamajans-referans-moz-official-logo-1.jpg.webp"
+    },
+    {
+        "name": "mueprive",
+        "url": "./Referans-img/pamajans-referans-mueprive-logo-1.jpg.webp"
+    },
+    {
+        "name": "narin-butik",
+        "url": "./Referans-img/pamajans-referans-narin-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "nb-butik",
+        "url": "./Referans-img/pamajans-referans-nb-butik-logo-1.jpg.webp"
+    },
+    {
+        "name": "parla",
+        "url": "./Referans-img/pamajans-referans-parla-ayakkabi-logo-1.jpg.webp"
+    },
+    {
+        "name": "penc",
+        "url": "./Referans-img/pamajans-referans-penc-fashion-logo-1.jpg.webp"
+    },
+    {
+        "name": "percemgiyim",
+        "url": "./Referans-img/pamajans-referans-percemgiyim-logo-1.jpg.webp"
+    },
+    {
+        "name": "pop-couture",
+        "url": "./Referans-img/pamajans-referans-pop-couture-logo-1.jpg.webp"
+    },{
+        "name": "popsycollections",
+        "url": "./Referans-img/pamajans-referans-popsycollections-logo-1.jpg.webp"
+    },
+    {
+        "name": "qozalac",
+        "url": "./Referans-img/pamajans-referans-qozalac-logo-1.jpg.webp"
+    },
+    {
+        "name": "rest-in-art",
+        "url": "./Referans-img/pamajans-referans-rest-in-art-logo-2.jpg.webp"
+    },
+    {
+        "name": "sarica",
+        "url": "./Referans-img/pamajans-referans-sarica-collection-logo-1.jpg.webp"
+    },
+    {
+        "name": "s-butik",
+        "url": "./Referans-img/pamajans-referans-s-butik-sevda-sira-logo-1.jpg.webp"
+    },
+    {
+        "name": "soobe",
+        "url": "./Referans-img/pamajans-referans-soobe-park-logo-1.jpg.webp"
+    },
+    {
+        "name": "tempo",
+        "url": "./Referans-img/pamajans-referans-tempo-logo-1.jpg.webp"
+    },
+    {
+        "name": "the-elsa",
+        "url": "./Referans-img/pamajans-referans-the-elsa-logo-1.jpg.webp"
+    },
+    {
+        "name": "tidies",
+        "url": "./Referans-img/pamajans-referans-tidies-logo-1.jpg.webp"
+    },
+    {
+        "name": "tugba-kara",
+        "url": "./Referans-img/pamajans-referans-tugba-kara-logo-1.jpg.webp"
+    },
+    {
+        "name": "wousden",
+        "url": "./Referans-img/pamajans-referans-wousden-logo-1.jpg.webp"
+    },{
+        "name": "yedi24hirdavat",
+        "url": "./Referans-img/pamajans-referans-yedi24hirdavat-logo-1.jpg.webp"
+    },
+    {
+        "name": "zumra-canta",
+        "url": "./Referans-img/pamajans-referans-zumra-canta-logo-1.jpg.webp"
+    }    
+    
+]
